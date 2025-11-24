@@ -1,5 +1,5 @@
 # 1. Define Paths
-$phpUrl = "https://windows.php.net/downloads/releases/php-8.3.13-nts-Win32-vs16-x64.zip"
+$phpUrl = "https://windows.php.net/downloads/releases/archives/php-8.3.13-nts-Win32-vs16-x64.zip"
 $tempDir = "$env:TEMP\php_test"
 $phpZip = "$tempDir\php.zip"
 $phpDir = "$tempDir\bin"
